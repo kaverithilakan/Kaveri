@@ -10,9 +10,9 @@ import ScrollToTop from "./components/helper/scroll-to-top";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Gowrishankar V.V",
+  title: "Kaveri T",
   description:
-    "My name is Gowrishankar V.V. I’m a tech enthusiast turned entrepreneur with a mission to innovate and inspire. As the Founder & CEO of IGORAZA PVT. LTD., I am dedicated to chasing the latest tech trends and building solutions that truly matter. Dive in to learn more about my journey! 👇With a solid background in software engineering, I’ve dedicated my career to creating impactful tech solutions. My entrepreneurial spirit led me to establish IGORAZA PVT. LTD., By integrating my enthusiasm for the latest technology with product development, I spearhead innovative solutions. 🚀 .",
+    "I'm  Kaveri T, CFO & Director at IGORAZA PVT. LTD. ,with a background in civil engineering, I combine my expertise in finance with a passion for exploring innovations, such as 3D printing and smart infrastructure technologies. This unique blend allows me to approach financial strategies and operational decisions with a forward-thinking mindset. My role involves not just managing the company’s finances but also researching new technological advancements in both civil engineering and tech, ensuring that IGORAZA stays at the forefront of innovation. By the latest trends and solutions, I aim to help drive the company toward sustainable, transformative growth while maintaining a clear focus on our financial goals.",
 };
 
 export default function RootLayout({ children }) {

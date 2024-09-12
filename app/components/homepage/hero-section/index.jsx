@@ -25,9 +25,9 @@ function HeroSection() {
         <div className="order-2 lg:order-1 flex flex-col items-start justify-center p-2 pb-20 md:pb-10 lg:pt-10">
           <h1 className="text-3xl font-bold leading-10 text-white md:font-extrabold lg:text-[2.6rem] lg:leading-[3.5rem]">
             👋 it's me, <br />
-            👨‍💻 {' '}
+            👩🏻‍💻 {' '}
             <span className=" text-yellow-500">{personalData.name}</span>
-            {` , Entrepreneur | Founder & CEO @ `}
+            {` , Entrepreneur |  Director & CFO @ `}
             <span className=" text-[#e30955]">{personalData.designation}</span>
             .
           </h1>
@@ -71,7 +71,7 @@ function HeroSection() {
           </div>
 
           <div className="flex items-center gap-3">
-            <Link href="https://wa.link/xqjaxx" className="bg-gradient-to-r to-pink-500 from-violet-600 p-[1px] rounded-full transition-all duration-300 hover:from-pink-500 hover:to-violet-600">
+            <Link href="https://wa.link/ly4q3o" className="bg-gradient-to-r to-pink-500 from-violet-600 p-[1px] rounded-full transition-all duration-300 hover:from-pink-500 hover:to-violet-600">
               <button className="px-3 text-xs md:px-8 py-3 md:py-4 bg-[#0d1224] rounded-full border-none text-center md:text-sm font-medium uppercase tracking-wider text-[#ffff] no-underline transition-all duration-200 ease-out  md:font-semibold flex items-center gap-1 hover:gap-3">
                 <span>Contact me</span>
                 <RiContactsFill size={16} />
@@ -109,7 +109,7 @@ function HeroSection() {
               <div>
                 <span className="ml-4 lg:ml-8 mr-2 text-white">name:</span>
                 <span className="text-gray-400">{`'`}</span>
-                <span className="text-amber-300">Gowrishankar V.V</span>
+                <span className="text-amber-300">Kaveri T</span>
                 <span className="text-gray-400">{`',`}</span>
               </div>
               <div className="ml-4 lg:ml-8 mr-2">
@@ -135,11 +135,11 @@ function HeroSection() {
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">Figma</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">JavaScript</span>
+                <span className="text-amber-300">HTML</span>
                 <span className="text-gray-400">{"'],"}</span>
               </div>
               <div>
-                <span className="ml-4 lg:ml-8 mr-2 text-red-500">Startups</span>
+                <span className="ml-4 lg:ml-8 mr-2 text-red-500">Startup</span>
                 <span className="text-orange-400">=</span>
                 <span className="text-gray-400"> {'{'}</span>
                 <span className="text-orange-400">{'('}</span>
@@ -149,17 +149,7 @@ function HeroSection() {
                 <span className="text-orange-400">2020</span>
                 <span className="text-gray-400">,</span>
               </div>
-              <div>
-                <span className="ml-4 lg:ml-8 mr-2 text-white">VIZTAH:</span>
-                <span className="text-orange-400">2021</span>
-                <span className="text-gray-400">,</span>
-              </div>
-              <div>
-                <span className="ml-4 lg:ml-8 mr-2 text-white">KNOWLUMI:</span>
-                <span className="text-orange-400">2024</span>
-                <span className="text-gray-400">,</span>
-                <span className="text-orange-400">{')'}</span>
-              </div>
+            
               <div>
                 <span className="ml-4 lg:ml-8 mr-2 text-green-400">IGORAZA PRIVATE LIMITED:</span>
                 <span className="text-orange-400">2023 JUNE </span>
@@ -171,29 +161,21 @@ function HeroSection() {
               </div>
               <div>
              <span className="ml-12 lg:ml-24 text-cyan-400">www.</span>
-            <a href="https://gowrishankarvv.in" className="mr-2 text-purple-400" target="_blank" rel="">gowrishankarvv.in</a>
+            <a href="https://kaverithilakan.in" className="mr-2 text-purple-400" target="_blank" rel="">kaverithilakan.in</a>
            <span className="text-amber-300">&amp;&amp;</span>
            </div>
            <div>
              <span className="ml-12 lg:ml-24 text-cyan-400">www.</span>
             <a href="https://www.igoraza.com" className="mr-2 text-rose-600" target="_blank" rel="">igoraza.com</a>
            <span className="text-amber-300">&amp;&amp;</span>
-           </div><div>
-             <span className="ml-12 lg:ml-24 text-cyan-400">www.</span>
-            <a href="https://www.viztah.com" className="mr-2 text-lime-400" target="_blank" rel="">viztah.com</a>
-           <span className="text-amber-300">&amp;&amp;</span>
            </div> 
 
-           <div>
-             <span className="ml-12 lg:ml-24 text-cyan-400">www.</span>
-            <a href="https://www.knowlumi.com" className="mr-2 text-green-400" target="_blank" rel="">knowlumi</a>
-           <span className="text-amber-300">&amp;&amp;</span>
-           </div>
+           
            <div>
                 <span className="ml-12 lg:ml-24 text-fuchsia-500">this.</span>
                 <span className="mr-2 text-pink-100">are.website</span>
                 <span className="mr-2 text-amber-300">&gt;=</span>
-                <span className="text-teal-300">4</span>
+                <span className="text-teal-300">2</span>
               </div>
               <div><span className="ml-8 lg:ml-16 mr-2 text-gray-400">{`);`}</span></div>
               <div><span className="ml-4 lg:ml-8 text-gray-400">{`};`}</span></div>
